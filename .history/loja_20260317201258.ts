@@ -1,0 +1,3 @@
+enum categoria{
+    eletronicos = "Eletro"
+}
